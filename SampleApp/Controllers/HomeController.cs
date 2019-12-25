@@ -24,6 +24,7 @@ namespace SampleApp.Controllers
             return View();
         }
 
+        //Get Privacy
         public IActionResult Privacy()
         {
             return View();
